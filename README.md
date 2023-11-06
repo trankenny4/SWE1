@@ -12,3 +12,6 @@ Communication Contract:
              socket.send(b"Requesting Data") <br>
   4) Data is received with the line: <br>
              agent = socket.recv().decode() <br>
+
+             
+![Screenshot_1](https://github.com/trankenny4/SWE1/assets/4711799/64d3a40b-972f-4c74-8b36-328af219c7f4)
